@@ -30,3 +30,28 @@ img{
 .items:hover{
     color:blue;
 }
+.banner-container{
+    display:flex;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(image/pngtree-this-is-a-dark-black-background-with-a-word-image_2638835.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-text{
+    color:white;
+}
+.srchbar{
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px rgb(87, 24, 24);
+    margin-top: 10px;
+}
+.banner-image{
+    width:450px
+}
+#heading{
+    font-size: xxx-large;
+}
