@@ -67,3 +67,40 @@ img{
     padding-bottom:20px;
     font-size: xxx-large;
 }
+.box{
+    width: 200px;
+    height: 370px;
+    box-shadow: 15px 15px 10px gray;
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding:10px
+}
+.icon{
+    width:70px;
+}
+.box-title{
+    padding:10px;
+}
+.box-text{
+    padding:10px;
+}
+.sevicer-container{
+    
+    padding:20px;
+   
+    background-image:url(image/pngtree-this-is-a-dark-black-background-with-a-word-image_2638835.png);
+        /* height: 50vh; */
+    
+}
+.heading2{
+   text-align: center;
+   color:white;
+   margin: 20px;
+   font-size: xxx-small;
+}
+.box1{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
