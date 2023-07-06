@@ -2,3 +2,31 @@
     margin:0px;
     paddig:0px;
 }
+.main-container{
+    background-color: black;
+    display:flex;
+    justify-content: space-around;
+}
+.logo{
+    width:80px;
+    height:80px;
+    cursor:pointer;
+}
+img{
+    width:100%;
+}
+.menus{
+    color:white;
+    list-style-type:none;
+    display:flex;
+    gap:20px;
+    margin-top: 25px;
+    cursor:pointer;
+    
+}
+/* .menus li{
+    margin-left:10px;
+} */
+.items:hover{
+    color:blue;
+}
