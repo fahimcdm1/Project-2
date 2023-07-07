@@ -104,3 +104,33 @@ img{
     justify-content:space-around;
     align-items: center;
 }
+.inportant-info{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(82, 73, 73);
+    color:white
+}
+.logo2{
+    width:100px;
+}
+.second-section{
+    list-style-type: none;
+}
+.third-section{
+    list-style-type: none;
+}
+.last-paragraph{
+    text-align: center;
+    background-color: rgb(82, 73, 73);
+    margin:  ;
+}
+.lastfinishing{
+    background-color:rgb(82, 73, 73);
+    color:white;
+    
+}
+.line{
+    width:75%;
+    margin: 10px auto;
+}
